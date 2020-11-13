@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0065)https://52o.ink/%E5%BE%80%E4%BA%8B%E7%95%99%E5%BF%B5/t/index.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
 
